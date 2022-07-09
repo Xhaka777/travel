@@ -13,7 +13,7 @@ import KeyWest from '../assets/keywest.jpg'
 const Travel = () => {
   return (
     <div className='hero'>
-            {/* <video autoPlay loop muted id='video'>
+            <video autoPlay loop muted id='video'>
                 <source src={Video} type='video/mp4' />
             </video>
             <div className="overlay"></div>
@@ -41,7 +41,7 @@ const Travel = () => {
                 <img src={KeyWest} alt='/'/>
             </div>
         </div>
-    </div> */}
+    </div>
         </div>
         
         
